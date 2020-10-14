@@ -14,7 +14,7 @@ With these ideas in mind, I built d'Post: an invite-only message board on Ethere
 
 ## Project
 
-[dpost.dev](http://dpost.dev)
+[dpost.netlify.app](http://dpost.netlify.app)
 
 ^Load with Rinkeby and contact me for an invite and some testnet ETH
 
