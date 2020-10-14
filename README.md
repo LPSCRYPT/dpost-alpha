@@ -14,7 +14,7 @@ With these ideas in mind, I built d'Post: an invite-only message board on Ethere
 
 ## Project
 
-www.dpost.dev
+[dpost.dev](http://dpost.dev)
 
 ^Load with Rinkeby and contact be for an invite and some testnet ETH
 
