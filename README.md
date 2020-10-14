@@ -16,7 +16,7 @@ With these ideas in mind, I built d'Post: an invite-only message board on Ethere
 
 [dpost.dev](http://dpost.dev)
 
-^Load with Rinkeby and contact be for an invite and some testnet ETH
+^Load with Rinkeby and contact me for an invite and some testnet ETH
 
 For my activation proposal I have built d’Post, a working social space catered towards a culture interested in information concerning Ethereum, DeFi, and software development. d’Post is a message board which incorporates the following mechanisms:
 * Invite-only access 
