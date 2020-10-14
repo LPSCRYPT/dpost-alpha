@@ -39,7 +39,7 @@ User members, or `Crewmates`, can create new posts and register more `Crewmates`
 
 The contract initializes the creator as the first `Captain`, and from there the userbase grows through invitations to new users.
 
-I use mobX in combination with ethers.js on the front end for state management which keeps account of blockchain events. New posts are caught through their emitted events and update the local store, which updates the components which rely on that information.
+I use mobX in combination with ethers.js on the front end for state management which keeps account of blockchain events. New posts are caught through their emitted events and update the local store, which updates the components which rely on that information. Most styling is accomplished with Chakra UI.
 
 In an effort to foster a more thoughtful environment less prone to spam, all actions which change contract state impose a time restriction on the caller. The user is notified of how many minutes they have remaining before they can engage in another action on d'Post.
 
