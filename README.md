@@ -51,6 +51,8 @@ Here is a list of user functions and the time restriction they impose before fur
 * `removeUser`: 2 hours. Removes the specified `Crewmate`. May only be called by `Captains`.
 * `removePost`: 2 hours. Removes the specified post. May only be called by `Captains`.
 
+NOTE: For ease of use and testing by d'Org members, I changed the 2 hour wait times to 1 minute, and the 4 hour wait times to 2 minutes.
+
 ## Future Development
 
 If the d'Org community finds this dapp useful, a migration onto xDAI would make it cheaper and more accessible. `Captains` and `Users` can be intitialized from existing members of the d'Org team. To retain privacy of posts, they could be stored on a server and only accessed by verified users. In this case, the contract would store all of the metadata of d'Post, but none of the post content.
