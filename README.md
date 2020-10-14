@@ -33,7 +33,7 @@ The intended result of these mechanisms is to create a space for mindshare which
 
 ## Design
 
-Admin members, or `Captains`, can add additional `Captains`, as well as delete posts and users. `Captains` also have access to all regular user priviledges. 
+Admin members, or `Captains`, can add additional `Captains`, as well as delete posts and users. `Captains` also have access to all regular user privileges. 
 
 User members, or `Crewmates`, can create new posts and register more `Crewmates`. `Crewmates` curate posts by adding 'mood' to them, which is akin to upvoting. On the front end, upvoting is referred to as adding `Grog`. 
 
